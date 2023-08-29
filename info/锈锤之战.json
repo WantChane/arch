@@ -1,0 +1,60 @@
+﻿{
+    "Mission_name": "ISW-SP 锈锤之战",
+    "Floor":"",
+    "Place": "6",
+    "Cost": "25",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "4",
+    "Min_time": "1分47秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "护盾高阶术师": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "50000",
+            "atk": "1000",
+            "def": "800",
+            "res": "20",
+            "atk_dis": "3.8",
+            "weitght": "3",
+            "speed": "0.7",
+            "atkr": "2.2",
+            "de_blood": "3"
+        },
+        "粉碎攻坚组长": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "60000",
+            "atk": "2300",
+            "def": "2000",
+            "res": "0",
+            "atk_dis": "3.5",
+            "weitght": "5",
+            "speed": "0.5",
+            "atkr": "—",
+            "de_blood": "3"
+        },
+        "狂暴宿主掷骨手": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "70000",
+            "atk": "1200",
+            "def": "500",
+            "res": "30",
+            "atk_dis": "2",
+            "weitght": "2",
+            "speed": "0.7",
+            "atkr": "2.6",
+            "de_blood": "3"
+        }
+    },
+    "Rune": [1,1,1,1,0,1,1,0]
+}

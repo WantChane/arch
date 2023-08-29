@@ -1,0 +1,83 @@
+﻿{
+    "Mission_name": "ISW-DU 拳拳到肉",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "11",
+    "Min_time": "2分3秒",
+    "Detail": "活性源石\n部署于其上的我军和经过的敌军在500秒内\n每秒持续受到120真实伤害，攻击力提升50%，攻击速度增加50",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "萨卡兹穿刺手": {
+            "count": "4",
+            "status": "精英",
+            "level": "0",
+            "hp": "7000",
+            "atk": "450",
+            "def": "150",
+            "res": "40",
+            "atk_dis": "4",
+            "weitght": "3",
+            "speed": "0.25",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "萨卡兹穿刺手组长": {
+            "count": "4",
+            "status": "精英",
+            "level": "0",
+            "hp": "12000",
+            "atk": "500",
+            "def": "230",
+            "res": "40",
+            "atk_dis": "4",
+            "weitght": "3",
+            "speed": "0.3",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "投嗣育母": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "16000",
+            "atk": "600",
+            "def": "600",
+            "res": "10",
+            "atk_dis": "8",
+            "weitght": "3",
+            "speed": "0.4",
+            "atkr": "4.0",
+            "de_blood": "1"
+        },
+        "注亡拟嗣": {
+            "count": "0",
+            "status": "普通",
+            "level": "0",
+            "hp": "6000",
+            "atk": "200",
+            "def": "150",
+            "res": "0",
+            "atk_dis": "1.6",
+            "weitght": "1",
+            "speed": "0",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

@@ -1,0 +1,55 @@
+﻿{
+    "Mission_name": "ISW-SP 惩罚",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "25",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "4",
+    "Min_time": "0分0秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "逐腐兽": {
+            "count": "4",
+            "status": "精英",
+            "level": "0",
+            "hp": "12000",
+            "atk": "550",
+            "def": "150",
+            "res": "20",
+            "atk_dis": "1.8",
+            "weitght": "2",
+            "speed": "1.4",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "食腐使徒": {
+            "count": "0",
+            "status": "精英",
+            "level": "0",
+            "hp": "40000",
+            "atk": "2000",
+            "def": "1000",
+            "res": "30",
+            "atk_dis": "3",
+            "weitght": "4",
+            "speed": "0.5",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-DF 无中生钱",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "20",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "23",
+    "Min_time": "0分15.1秒",
+    "Detail": "热泵通道\n每1~1秒造成一次2000真实伤害",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "染污躯壳": {
+            "count": "20",
+            "status": "普通",
+            "level": "0",
+            "hp": "4000",
+            "atk": "400",
+            "def": "200",
+            "res": "0",
+            "atk_dis": "1.5",
+            "weitght": "1",
+            "speed": "1",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "歪曲施法者": {
+            "count": "2",
+            "status": "普通",
+            "level": "0",
+            "hp": "8000",
+            "atk": "350",
+            "def": "300",
+            "res": "50",
+            "atk_dis": "2.5",
+            "weitght": "1",
+            "speed": "0.6",
+            "atkr": "1.8",
+            "de_blood": "1"
+        },
+        "鸭爵": {
+            "count": "1",
+            "status": "精英",
+            "level": "1",
+            "hp": "35000",
+            "atk": "100",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "1",
+            "weitght": "3",
+            "speed": "0.4",
+            "atkr": "—",
+            "de_blood": "0"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

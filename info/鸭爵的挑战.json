@@ -1,0 +1,41 @@
+﻿{
+    "Mission_name": "ISW-DU 鸭爵的挑战",
+    "Floor":"",
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "77",
+    "Min_time": "2分32秒",
+    "Detail": "活性源石\n部署于其上的我军和经过的敌军在五分钟内\n每秒持续受到90真实伤害，攻击力提升20%，攻击速度增加50",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "狂暴的猎狗pro": {
+            "count": "76",
+            "status": "普通",
+            "level": "0",
+            "hp": "2500",
+            "atk": "350",
+            "def": "0",
+            "res": "20",
+            "atk_dis": "1.4",
+            "weitght": "0",
+            "speed": "1.9",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

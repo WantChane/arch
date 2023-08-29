@@ -1,0 +1,60 @@
+﻿{
+    "Mission_name": "ISW-NO 荒野军校生",
+    "Floor":"",
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "31~32",
+    "Min_time": "4分8秒",
+    "Detail": "",
+    "Place_em": "6",
+    "Cost_em": "10",
+    "Max_cost_em": "99",
+    "Detail_em": "敌方单位的生命值提升至120%、移动速度提升至130%",
+    "Enemy_info": {
+        "萨卡兹穿刺手": {
+            "count": "26",
+            "status": "精英",
+            "level": "0",
+            "hp": "7000",
+            "atk": "450",
+            "def": "150",
+            "res": "40",
+            "atk_dis": "4",
+            "weitght": "3",
+            "speed": "0.25",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "萨卡兹穿刺手组长": {
+            "count": "5",
+            "status": "精英",
+            "level": "0",
+            "hp": "9000",
+            "atk": "500",
+            "def": "230",
+            "res": "40",
+            "atk_dis": "4",
+            "weitght": "3",
+            "speed": "0.3",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "鸭爵": {
+            "count": "1",
+            "status": "精英",
+            "level": "1",
+            "hp": "35000",
+            "atk": "100",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "1",
+            "weitght": "3",
+            "speed": "0.4",
+            "atkr": "—",
+            "de_blood": "0"
+        }
+    },
+    "Rune": [1,1,1,1,0,1]
+}

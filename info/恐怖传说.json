@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-DF 恐怖传说",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "16",
+    "Min_time": "3分30秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "“遗弃者”": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "60000",
+            "atk": "550",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "3",
+            "weitght": "3",
+            "speed": "0.6",
+            "atkr": "2.5",
+            "de_blood": "5"
+        },
+        "伐木机": {
+            "count": "7",
+            "status": "精英",
+            "level": "0",
+            "hp": "10000",
+            "atk": "750",
+            "def": "80",
+            "res": "30",
+            "atk_dis": "3.3",
+            "weitght": "3",
+            "speed": "0.75",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "伐木老手": {
+            "count": "4",
+            "status": "精英",
+            "level": "0",
+            "hp": "15000",
+            "atk": "850",
+            "def": "100",
+            "res": "30",
+            "atk_dis": "3.3",
+            "weitght": "3",
+            "speed": "0.75",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-DF 悦耳杀机",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "41",
+    "Min_time": "4分30秒",
+    "Detail": "医疗符文\n部署在其上的干员每秒持续恢复3%最大生命值",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "漂泊颂偶": {
+            "count": "2",
+            "status": "领袖",
+            "level": "0",
+            "hp": "40000",
+            "atk": "900",
+            "def": "800",
+            "res": "50",
+            "atk_dis": "1.5",
+            "weitght": "4",
+            "speed": "0.5",
+            "atkr": "—",
+            "de_blood": "5"
+        },
+        "编制术师": {
+            "count": "19",
+            "status": "普通",
+            "level": "0",
+            "hp": "3000",
+            "atk": "320",
+            "def": "100",
+            "res": "50",
+            "atk_dis": "4",
+            "weitght": "1",
+            "speed": "0.8",
+            "atkr": "1.8",
+            "de_blood": "1"
+        },
+        "法术近卫": {
+            "count": "18",
+            "status": "普通",
+            "level": "0",
+            "hp": "4000",
+            "atk": "350",
+            "def": "200",
+            "res": "50",
+            "atk_dis": "2.5",
+            "weitght": "1",
+            "speed": "0.75",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

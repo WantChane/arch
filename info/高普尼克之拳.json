@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-DU 高普尼克之拳",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "27",
+    "Min_time": "1分51.5秒",
+    "Detail": "活性源石\n部署于其上的我军和经过的敌军在五分钟内\n每秒受到90真实伤害，攻击力提升20%，攻击速度增加50",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "高普尼克": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "78000",
+            "atk": "3500",
+            "def": "550",
+            "res": "50",
+            "atk_dis": "3.5",
+            "weitght": "4",
+            "speed": "0.5",
+            "atkr": "—",
+            "de_blood": "0"
+        },
+        "游击队传令兵": {
+            "count": "3",
+            "status": "普通",
+            "level": "0",
+            "hp": "5000",
+            "atk": "300",
+            "def": "120",
+            "res": "50",
+            "atk_dis": "2.7",
+            "weitght": "1",
+            "speed": "1",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "游击队战士": {
+            "count": "22",
+            "status": "普通",
+            "level": "0",
+            "hp": "3300",
+            "atk": "300",
+            "def": "300",
+            "res": "20",
+            "atk_dis": "2",
+            "weitght": "1",
+            "speed": "1.1",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

@@ -1,0 +1,60 @@
+﻿{
+    "Mission_name": "ISW-SP 观察",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "20",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "58",
+    "Min_time": "3分34.5秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "冬灵猎犬pro": {
+            "count": "25",
+            "status": "普通",
+            "level": "0",
+            "hp": "3500",
+            "atk": "360",
+            "def": "0",
+            "res": "20",
+            "atk_dis": "1.4",
+            "weitght": "0",
+            "speed": "1.9",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "骇笑看客": {
+            "count": "16",
+            "status": "精英",
+            "level": "0",
+            "hp": "8000",
+            "atk": "750",
+            "def": "600",
+            "res": "30",
+            "atk_dis": "3",
+            "weitght": "2",
+            "speed": "1.2",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "绯红歌伶": {
+            "count": "11",
+            "status": "精英",
+            "level": "0",
+            "hp": "12000",
+            "atk": "500",
+            "def": "300",
+            "res": "60",
+            "atk_dis": "4",
+            "weitght": "3",
+            "speed": "0.8",
+            "atkr": "2.5",
+            "de_blood": "1"
+        }
+    },
+    "Rune": [1,1,1,1,0,1]
+}

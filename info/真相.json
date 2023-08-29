@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-SP 真相",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "20",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "15",
+    "Min_time": "1分50秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "乌萨斯平民": {
+            "count": "1",
+            "status": "普通",
+            "level": "0",
+            "hp": "3500",
+            "atk": "0",
+            "def": "50",
+            "res": "0",
+            "atk_dis": "0",
+            "weitght": "1",
+            "speed": "0.65",
+            "atkr": "—",
+            "de_blood": "0"
+        },
+        "锋盔骑士团精锐": {
+            "count": "3",
+            "status": "精英",
+            "level": "0",
+            "hp": "24000",
+            "atk": "700",
+            "def": "700",
+            "res": "50",
+            "atk_dis": "2.5",
+            "weitght": "3",
+            "speed": "0.75",
+            "atkr": "1.3",
+            "de_blood": "1"
+        },
+        "感染者高级纠察官": {
+            "count": "10",
+            "status": "普通",
+            "level": "0",
+            "hp": "4300",
+            "atk": "400",
+            "def": "150",
+            "res": "20",
+            "atk_dis": "2",
+            "weitght": "1",
+            "speed": "1.1",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

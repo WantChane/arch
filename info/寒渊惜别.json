@@ -1,0 +1,83 @@
+﻿{
+    "Mission_name": "ISW-DF 寒渊惜别",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "26",
+    "Min_time": "3分19秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "“雪牝”": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "40000",
+            "atk": "700",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "4",
+            "weitght": "4",
+            "speed": "0.6",
+            "atkr": "2.2",
+            "de_blood": "3"
+        },
+        "“霜牡”": {
+            "count": "2",
+            "status": "领袖",
+            "level": "0",
+            "hp": "60000",
+            "atk": "1200",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "6",
+            "weitght": "4",
+            "speed": "0.6",
+            "atkr": "—",
+            "de_blood": "3"
+        },
+        "雪怪小队": {
+            "count": "9",
+            "status": "普通",
+            "level": "0",
+            "hp": "3400",
+            "atk": "360",
+            "def": "100",
+            "res": "0",
+            "atk_dis": "2",
+            "weitght": "1",
+            "speed": "1.1",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "冰爆源石虫": {
+            "count": "11",
+            "status": "普通",
+            "level": "0",
+            "hp": "3250",
+            "atk": "270",
+            "def": "0",
+            "res": "0",
+            "atk_dis": "1.7",
+            "weitght": "0",
+            "speed": "1",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

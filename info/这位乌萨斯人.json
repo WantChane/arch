@@ -1,0 +1,55 @@
+﻿{
+    "Mission_name": "ISW-DU 这位乌萨斯人",
+    "Floor":["1","2","3","4","5","6"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "58",
+    "Min_time": "2分22.5秒",
+    "Detail": "活性源石\n部署于其上的我军和经过的敌军在五分钟内\n每秒受到90真实伤害，攻击力提升20%，攻击速度增加50",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "变异沙地兽": {
+            "count": "57",
+            "status": "普通",
+            "level": "0",
+            "hp": "3000",
+            "atk": "400",
+            "def": "100",
+            "res": "0",
+            "atk_dis": "2.5",
+            "weitght": "2",
+            "speed": "1.7",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "畸变赘生物": {
+            "count": "0",
+            "status": "普通",
+            "level": "0",
+            "hp": "1000",
+            "atk": "150",
+            "def": "0",
+            "res": "0",
+            "atk_dis": "2",
+            "weitght": "0",
+            "speed": "1.9",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

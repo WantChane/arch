@@ -1,0 +1,69 @@
+﻿{
+    "Mission_name": "ISW-NO 大地醒转",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "15",
+    "Max_cost": "99",
+    "Blood": "99",
+    "Enemy_count": "16",
+    "Min_time": "2分18秒",
+    "Detail": "古老藤蔓会随机出现在场地的右上区域或左下区域",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "古老藤蔓": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "100000",
+            "atk": "1200",
+            "def": "1200",
+            "res": "40",
+            "atk_dis": "2.5",
+            "weitght": "5",
+            "speed": "0.5",
+            "atkr": "—",
+            "de_blood": "5"
+        },
+        "隐形弩手组长": {
+            "count": "5~12",
+            "status": "普通",
+            "level": "0",
+            "hp": "6500",
+            "atk": "380",
+            "def": "130",
+            "res": "20",
+            "atk_dis": "2.7",
+            "weitght": "1",
+            "speed": "0.9",
+            "atkr": "2.2",
+            "de_blood": "1"
+        },
+        "隐形术师组长": {
+            "count": "3~10",
+            "status": "普通",
+            "level": "0",
+            "hp": "8000",
+            "atk": "430",
+            "def": "130",
+            "res": "50",
+            "atk_dis": "4",
+            "weitght": "1",
+            "speed": "0.8",
+            "atkr": "2.0",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

@@ -1,0 +1,83 @@
+﻿{
+    "Mission_name": "ISW-NO 呼吸",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "10",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "30",
+    "Min_time": "2分53秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "“邪魔的利刃”，游荡者": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "60000",
+            "atk": "800",
+            "def": "300",
+            "res": "30",
+            "atk_dis": "4",
+            "weitght": "4",
+            "speed": "0.4",
+            "atkr": "2.0",
+            "de_blood": "5"
+        },
+        "武装人员": {
+            "count": "3",
+            "status": "精英",
+            "level": "0",
+            "hp": "12000",
+            "atk": "1050",
+            "def": "700",
+            "res": "30",
+            "atk_dis": "3.5",
+            "weitght": "3",
+            "speed": "0.65",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "高级武装人员": {
+            "count": "1",
+            "status": "精英",
+            "level": "0",
+            "hp": "18000",
+            "atk": "1500",
+            "def": "800",
+            "res": "30",
+            "atk_dis": "3.5",
+            "weitght": "3",
+            "speed": "0.65",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "乌萨斯裂兽": {
+            "count": "25",
+            "status": "普通",
+            "level": "0",
+            "hp": "3500",
+            "atk": "380",
+            "def": "100",
+            "res": "20",
+            "atk_dis": "1.5",
+            "weitght": "0",
+            "speed": "1.7",
+            "atkr": "—",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}

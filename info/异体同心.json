@@ -1,0 +1,83 @@
+﻿{
+    "Mission_name": "ISW-NO 异体同心",
+    "Floor":["3"],
+    "Place": "6",
+    "Cost": "20",
+    "Max_cost": "99",
+    "Blood": "100",
+    "Enemy_count": "27",
+    "Min_time": "2分45秒",
+    "Detail": "",
+    "Place_em": "",
+    "Cost_em": "",
+    "Max_cost_em": "",
+    "Detail_em": "",
+    "Enemy_info": {
+        "接潮主教": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "40000",
+            "atk": "600",
+            "def": "300",
+            "res": "70",
+            "atk_dis": "4.5",
+            "weitght": "3",
+            "speed": "0.4",
+            "atkr": "3.5",
+            "de_blood": "5"
+        },
+        "接潮斥亡体": {
+            "count": "1",
+            "status": "领袖",
+            "level": "0",
+            "hp": "5000",
+            "atk": "550",
+            "def": "800",
+            "res": "0",
+            "atk_dis": "0.7",
+            "weitght": "1",
+            "speed": "0.9",
+            "atkr": "—",
+            "de_blood": "5"
+        },
+        "骨海漂流体": {
+            "count": "11~15",
+            "status": "普通",
+            "level": "0",
+            "hp": "4000",
+            "atk": "250",
+            "def": "150",
+            "res": "10",
+            "atk_dis": "2",
+            "weitght": "1",
+            "speed": "1.2",
+            "atkr": "—",
+            "de_blood": "1"
+        },
+        "固海凿石者": {
+            "count": "3~5",
+            "status": "普通",
+            "level": "0",
+            "hp": "6000",
+            "atk": "300",
+            "def": "200",
+            "res": "10",
+            "atk_dis": "2.5",
+            "weitght": "2",
+            "speed": "0.9",
+            "atkr": "2.4",
+            "de_blood": "1"
+        }
+    },
+    "Rune": {
+        "hp":[],
+        "atk":[],
+        "def":[],
+        "speed":[],
+        "res+":[],
+        "atkr":[],
+        "atkd+":[],
+        "atkd*":[]
+    }
+}
